@@ -1,0 +1,16 @@
+Create a user account :
+  mongoose 
+  schema 
+  model 
+  usercreate -> password -> hash
+  jwt token -> cookie set karna hoga 
+
+Login part kay liyay : 
+  token 
+  dcrypt 
+  email  
+
+
+
+Jab bh server p koi change na ho to we use get route and when any change occurs to the server we use post route
+
